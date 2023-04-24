@@ -1,0 +1,14 @@
+.container {
+  width:500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5rem;
+  font-weight: 900;
+  font-family: Arial, Helvetica, sans-serif;
+margin-top: 1rem;
+border: 1px  solid black;
+border-width: 5px;
+margin-left: 35%;
+margin-top: 10%;
+}
