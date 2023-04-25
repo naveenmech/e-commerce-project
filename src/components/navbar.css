@@ -40,6 +40,9 @@
 } */
 .flipimage{
 display: flex;
-align-items: start;
-
+/* align-items: start;*/
+justify-content: flex-start;
+position: relative;
+right: 63.2rem;
+height: 85px;
 }
