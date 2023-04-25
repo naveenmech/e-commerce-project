@@ -24,37 +24,37 @@ export const PRODUCTS = [
   {
     id: 1,
     productName: "Samsung s23",
-    price: 101999.0,
+    price: 21999.0,
     productImage: product1,
   },
   {
     id: 2,
     productName: "Iphone 14 ",
-    price: 124999.0,
+    price: 90999.0,
     productImage: product2,
   },
   {
     id: 3,
     productName: "Xiaomi 13",
-    price: 89999.0,
+    price: 9999.0,
     productImage: product3,
   },
   {
     id: 4,
     productName: "Motorola Edge",
-    price: 69999.0,
+    price: 9999.0,
     productImage: product4,
   },
   {
     id: 5,
     productName: "Oneplus",
-    price: 39999.99,
+    price: 9999.99,
     productImage: product5,
   },
   {
     id: 6,
     productName: "Apple Laptop",
-    price: 259999.0,
+    price: 59999.0,
     productImage: product6,
   },
   {
