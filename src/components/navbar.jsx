@@ -10,7 +10,7 @@ export const Navbar = () => {
       <img
         src="https://www.freepnglogos.com/uploads/flipkart-logo-png/flipkart-com-logo-internet-ltd-state-of-kerala-10.png"
         alt="https://www.freepnglogos.com/uploads/flipkart-logo-png/flipkart-com-logo-internet-ltd-state-of-kerala-10.png"
-        id="flipimage"
+        className="flipimage"
       />
       <div className="links">
         <Link to="/"> Home </Link>

@@ -6,7 +6,7 @@ import { Contact } from "./pages/contact";
 import { Cart } from "./pages/cart/cart";
 import { ShopContextProvider } from "./context/shop-context";
 // import SignsIn from "./pages/shop/signin";
-import SignIn from "./pages/shop/Signin";
+import SignIn from "./pages/signin/Signin";
 
 function App() {
   return (

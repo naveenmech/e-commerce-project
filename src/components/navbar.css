@@ -38,3 +38,8 @@
   margin-top: -5px;
   width:auto;
 } */
+.flipimage{
+display: flex;
+align-items: start;
+
+}

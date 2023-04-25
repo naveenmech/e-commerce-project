@@ -1,0 +1,33 @@
+.button {
+  padding: 5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+}
+.login {
+  background-color: green;
+  color: white;
+  padding: 12px;
+}
+.logout {
+  background-color: red;
+  color: white;
+    padding: 10px;
+}
+.button{
+  flex: 1;
+  background-color: #8f8989;
+  color: #fff;
+  border: 1px solid;
+  padding: 5rem;
+  text-align: center;
+  text-decoration: none;
+  transition: all 0.5s ease-out;
+}
+
+button:hover,
+button:focus {
+  background-color: #fff;
+  color: #333;
+}
