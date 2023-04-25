@@ -1,6 +1,3 @@
-
-
-
 .navbar {
   width: 100%;
   height: 80px;
@@ -31,18 +28,18 @@
   /* justify-content: flex-start; */
   /* margin: 20px 0 20px 50px;   */
   /* padding-right: 550px */
-} 
+}
 /* #flipimage{
   height: 90px;
   padding-right: 82rem; 
   margin-top: -5px;
   width:auto;
 } */
-.flipimage{
-display: flex;
-/* align-items: start;*/
-justify-content: flex-start;
-position: relative;
-right: 63.2rem;
-height: 85px;
+.flipimage {
+  display: flex;
+  /* align-items: start;*/
+  justify-content: flex-start;
+  position: relative;
+  right: 63.2rem;
+  height: 85px;
 }
